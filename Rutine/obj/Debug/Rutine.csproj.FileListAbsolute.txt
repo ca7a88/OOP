@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\bin\Debug\Rutine.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\bin\Debug\Rutine.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\bin\Debug\Rutine.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\obj\Debug\Rutine.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\obj\Debug\Rutine.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\obj\Debug\Rutine.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\obj\Debug\Rutine.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Rutine\obj\Debug\Rutine.pdb

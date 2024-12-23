@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\bin\Debug\TemaClasaDreptunghi.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\bin\Debug\TemaClasaDreptunghi.exe
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\bin\Debug\TemaClasaDreptunghi.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\obj\Debug\TemaClasaDreptunghi.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\obj\Debug\TemaClasaDreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\obj\Debug\TemaClasaDreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\obj\Debug\TemaClasaDreptunghi.exe
+C:\Users\rotar\source\repos\LaboratorOOP\TemaClasaDreptunghi\obj\Debug\TemaClasaDreptunghi.pdb

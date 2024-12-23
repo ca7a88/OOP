@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\bin\Debug\Sortare.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\bin\Debug\Sortare.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\bin\Debug\Sortare.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\obj\Debug\Sortare.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\obj\Debug\Sortare.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\obj\Debug\Sortare.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\obj\Debug\Sortare.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Sortare\obj\Debug\Sortare.pdb
