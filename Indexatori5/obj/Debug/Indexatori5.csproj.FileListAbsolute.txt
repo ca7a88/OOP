@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\bin\Debug\Indexatori5.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\bin\Debug\Indexatori5.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\bin\Debug\Indexatori5.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\obj\Debug\Indexatori5.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\obj\Debug\Indexatori5.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\obj\Debug\Indexatori5.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\obj\Debug\Indexatori5.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori5\obj\Debug\Indexatori5.pdb

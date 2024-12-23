@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\bin\Debug\Interfete.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\bin\Debug\Interfete.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\bin\Debug\Interfete.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\obj\Debug\Interfete.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\obj\Debug\Interfete.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\obj\Debug\Interfete.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\obj\Debug\Interfete.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Interfete\obj\Debug\Interfete.pdb
