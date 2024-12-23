@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\bin\Debug\LaboratorOOP_ClasaRational.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\bin\Debug\LaboratorOOP_ClasaRational.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\bin\Debug\LaboratorOOP_ClasaRational.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\obj\Debug\LaboratorOOP_ClasaRational.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\obj\Debug\LaboratorOOP_ClasaRational.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\obj\Debug\LaboratorOOP_ClasaRational.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\obj\Debug\LaboratorOOP_ClasaRational.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaRational\obj\Debug\LaboratorOOP_ClasaRational.pdb

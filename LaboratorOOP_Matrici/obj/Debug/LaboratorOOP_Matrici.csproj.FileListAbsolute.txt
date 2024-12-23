@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\bin\Debug\LaboratorOOP_Matrici.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\bin\Debug\LaboratorOOP_Matrici.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\bin\Debug\LaboratorOOP_Matrici.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\obj\Debug\LaboratorOOP_Matrici.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\obj\Debug\LaboratorOOP_Matrici.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\obj\Debug\LaboratorOOP_Matrici.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\obj\Debug\LaboratorOOP_Matrici.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_Matrici\obj\Debug\LaboratorOOP_Matrici.pdb
