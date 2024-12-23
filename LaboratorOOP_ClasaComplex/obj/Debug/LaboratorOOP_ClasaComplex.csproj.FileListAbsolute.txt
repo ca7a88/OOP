@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\bin\Debug\LaboratorOOP_ClasaComplex.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\bin\Debug\LaboratorOOP_ClasaComplex.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\bin\Debug\LaboratorOOP_ClasaComplex.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\obj\Debug\LaboratorOOP_ClasaComplex.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\obj\Debug\LaboratorOOP_ClasaComplex.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\obj\Debug\LaboratorOOP_ClasaComplex.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\obj\Debug\LaboratorOOP_ClasaComplex.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaComplex\obj\Debug\LaboratorOOP_ClasaComplex.pdb

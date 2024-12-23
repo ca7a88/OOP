@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\bin\Debug\LaboratorOOP_ClasaAbstractPoint.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\bin\Debug\LaboratorOOP_ClasaAbstractPoint.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\bin\Debug\LaboratorOOP_ClasaAbstractPoint.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\obj\Debug\LaboratorOOP_ClasaAbstractPoint.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\obj\Debug\LaboratorOOP_ClasaAbstractPoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\obj\Debug\LaboratorOOP_ClasaAbstractPoint.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\obj\Debug\LaboratorOOP_ClasaAbstractPoint.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP_ClasaAbstractPoint\obj\Debug\LaboratorOOP_ClasaAbstractPoint.pdb

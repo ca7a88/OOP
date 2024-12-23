@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\bin\Debug\LaboratorOOP.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\bin\Debug\LaboratorOOP.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\bin\Debug\LaboratorOOP.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\obj\Debug\LaboratorOOP.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\obj\Debug\LaboratorOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\obj\Debug\LaboratorOOP.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\obj\Debug\LaboratorOOP.exe
+C:\Users\rotar\source\repos\LaboratorOOP\LaboratorOOP\obj\Debug\LaboratorOOP.pdb
