@@ -1,0 +1,5 @@
+﻿Rotariu Catalin 4 8 9 10 10
+Popescu Maria 3 10 9 8
+Iercosan Maria 5 10 10 9 10 10
+Marc Bogdan 2 8 7
+Aioanei Narcisa 5 9 10 10 10 10

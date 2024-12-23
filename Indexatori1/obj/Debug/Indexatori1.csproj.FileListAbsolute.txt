@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\bin\Debug\Indexatori1.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\bin\Debug\Indexatori1.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\bin\Debug\Indexatori1.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\obj\Debug\Indexatori1.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\obj\Debug\Indexatori1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\obj\Debug\Indexatori1.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\obj\Debug\Indexatori1.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Indexatori1\obj\Debug\Indexatori1.pdb

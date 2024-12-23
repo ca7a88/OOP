@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\bin\Debug\Delegari3(multicast).exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\bin\Debug\Delegari3(multicast).exe
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\bin\Debug\Delegari3(multicast).pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\obj\Debug\Delegari3(multicast).csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\obj\Debug\Delegari3(multicast).csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\obj\Debug\Delegari3(multicast).csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\obj\Debug\Delegari3(multicast).exe
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari3(multicast)\obj\Debug\Delegari3(multicast).pdb

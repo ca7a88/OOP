@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\bin\Debug\Delegari2.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\bin\Debug\Delegari2.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\bin\Debug\Delegari2.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\obj\Debug\Delegari2.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\obj\Debug\Delegari2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\obj\Debug\Delegari2.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\obj\Debug\Delegari2.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Delegari2\obj\Debug\Delegari2.pdb

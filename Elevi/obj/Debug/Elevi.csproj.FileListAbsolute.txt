@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\bin\Debug\Elevi.exe.config
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\bin\Debug\Elevi.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\bin\Debug\Elevi.pdb
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\obj\Debug\Elevi.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\obj\Debug\Elevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\obj\Debug\Elevi.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\obj\Debug\Elevi.exe
+C:\Users\rotar\source\repos\LaboratorOOP\Elevi\obj\Debug\Elevi.pdb
